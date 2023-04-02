@@ -1,6 +1,7 @@
 <h1><p align="center">Hi🙋‍♂️, my name is Sujan Karki.</p></h1>
 <h3><p align="center">I am a hard-working and passionate front-end developer from Nepal who is always looking forward to learn and hone his skills. I am currently learning front-end technologies such as HTML, CSS, and JavaScript</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujankarki-10ghz&label=Profile%20views&color=0e75b6&style=flat" alt="sujankarki-10ghz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujankarki-10ghz" alt="sujankarki-10ghz" /></a> </p>
